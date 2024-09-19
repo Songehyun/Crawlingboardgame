@@ -108,7 +108,7 @@ def scrape_all_posts(start, end):
 
 if __name__ == "__main__":
     # 57000번부터 1번까지 크롤링
-    start_post = 57000
+    start_post = 51999
     end_post = 1
 
     scrape_all_posts(start_post, end_post)
